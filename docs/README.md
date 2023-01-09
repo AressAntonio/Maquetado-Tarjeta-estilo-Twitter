@@ -1,5 +1,5 @@
 # Maquetado||Tarjeta estilo Twitter
-<p>pequeño proyecto que simula la apariencia de una tarjeta de usuario en twitter<br>con algunos efectos interactivos en sus componenntes</p>
+<p>Pequeño proyecto que simula la apariencia de una tarjeta de usuario en twitter<br>con algunos efectos interactivos en sus componentes</p>
 
 <h2>Tecnologias Utilizadas: </h2>
 <ul>
