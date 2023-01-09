@@ -14,7 +14,7 @@
     3.Abrir index.html con navegador de su eleccion.
 </p><br>
 
-<hr width="280"><a href="" target="_blank">Ver proyecto.</a><hr width="280"><br>
+<hr width="280"><a href="https://aressantonio.github.io/Maquetado-Tarjeta-estilo-Twitter/" target="_blank">Ver proyecto.</a><hr width="280"><br>
 
 <table>
     <tr>
@@ -22,13 +22,13 @@
     </tr>
     <tr>
      <td>
-      <img src="" alt="" width="400">
+      <img src="https://user-images.githubusercontent.com/99376135/211416819-13efa66e-b494-4d24-b82e-20b508dbb721.png" alt="" width="400">
      </td>
      <td>
-      <img src="" alt="" width="400">
+      <img src="https://user-images.githubusercontent.com/99376135/211416863-22e33cfd-0508-4ed0-9cef-69a37a668e10.png" alt="" width="400">
      </td>
      <td>
-      <img src="" alt="" width="400">
+      <img src="https://user-images.githubusercontent.com/99376135/211416895-377d4cb9-f6bb-4e70-9b2c-708783ff95d0.png" alt="" width="400">
      </td>
     </tr>
 </table>
